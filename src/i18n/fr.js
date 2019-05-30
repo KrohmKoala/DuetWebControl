@@ -546,7 +546,7 @@ export default {
 			editMesh: 'Définir Zone pour la Mesh Compensation (M557)',
 			runMesh: 'Lancer Mesh Compensation (G29)',
 			loadMesh: 'Charger la Carte de Hauteur Sauvegardée (G29 S1)',
-			axesNotHomed: 'L\'axe suivant  n\'a pas été à son origine:|Les axes suivantss n\'ont pas été à leur origine:',
+			axesNotHomed: 'L\'axe suivant  n\'a pas été à son origine:|Les axes suivants n\'ont pas été à leur origine:',
 			noAxes: 'Pas d\'axes'
 		},
 		settingsAbout: {
@@ -574,9 +574,9 @@ export default {
 		settingsElectronics: {
 			caption: 'Électroniques',
 			diagnostics: 'Diagnostiques',
-			board: 'Circuit: {0}',
+			board: 'Carte: {0}',
 			firmware: 'Firmware: {0} ({1})',
-			dwsFirmware: 'Duet WiFi Server Version: {0}',
+			dwsFirmware: 'Version du Duet WiFi Server: {0}',
 			updateNote: 'Remarque: Vous pouvez installer les mises à jour sur la page Système.'
 		},
 		settingsGeneral: {
@@ -653,7 +653,7 @@ export default {
 			heater: 'Chauffage {0}',
 			current: 'Actuel',
 			active: 'Actif',
-			standby: 'Standby',
+			standby: 'Veille',
 			bed: 'Lit {0}',
 			chamber: 'Chambre {0}',
 			extra: {
